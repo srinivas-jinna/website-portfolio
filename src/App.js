@@ -273,7 +273,7 @@ export default function Portfolio() {
               <Mail className="w-5 h-5" />
               <span>Get in Touch</span>
             </a>
-            <a href="https://linkedin.com/in/srinivas-jinna" 
+            <a href="https://www.linkedin.com/in/srinivas-jinna-69b175258/" 
                target="_blank" 
                rel="noopener noreferrer"
                className="flex items-center space-x-2 px-6 py-3 bg-white hover:bg-gray-50 text-gray-700 rounded-full transition-all transform hover:scale-105 shadow-lg hover:shadow-xl border border-gray-200">
