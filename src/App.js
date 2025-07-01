@@ -307,7 +307,7 @@ export default function Portfolio() {
             <div className="space-y-6">
               <p className="text-lg text-gray-600 leading-relaxed">
                 I'm a passionate AI/ML Developer and Software Engineer with expertise in building intelligent solutions 
-                that solve real-world problems. Currently pursuing my B.Tech in Computer Science at RGUKT-SKLM, 
+                that solve real-world problems. Currently pursuing my B.Tech in Computer Science at Aditya Engineering College, 
                 I have a strong foundation in machine learning, deep learning, and software development.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
@@ -552,7 +552,7 @@ export default function Portfolio() {
               <Mail className="w-5 h-5" />
               <span>Email Me</span>
             </a>
-            <a href="https://linkedin.com/in/srinivas-jinna" 
+            <a href="https://www.linkedin.com/in/srinivas-jinna-69b175258/" 
                target="_blank" 
                rel="noopener noreferrer"
                className="flex items-center space-x-2 px-6 py-3 bg-blue-700 hover:bg-blue-800 text-white rounded-full transition-all transform hover:scale-105 shadow-lg hover:shadow-xl">
