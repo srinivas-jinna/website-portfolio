@@ -139,6 +139,20 @@ export default function Portfolio() {
       ],
       tech: ['Django', 'Python', 'JWT', 'REST API', 'PostgreSQL', 'Security'],
       icon: Shield
+    },
+    {
+     title: 'PowerGrid Vemagiri Substation Inventory Management System',
+     description: 'Developed a comprehensive full-stack inventory management system for PowerGrid Corporation\'s Vemagiri substation with automated gate pass generation and real-time inventory tracking. Built with React.js frontend and Node.js backend, featuring professional PowerGrid corporate branding and seamless user experience. Implemented persistent JSON file storage, RESTful API architecture, and automated QR code/barcode generation for product tracking. The system streamlines inventory operations by reducing manual paperwork and enabling efficient gate pass creation with digital signatures and PDF export functionality.',
+     features: [
+       'Real-time inventory management with CRUD operations',
+       'Automated gate pass generation with PDF export',
+       'QR code and barcode generation for product tracking',
+       'Quantity-based product selection with validation',
+       'Gate pass history tracking and audit trails',
+       'Professional PowerGrid UI with responsive design'
+     ],
+     tech: ['React.js', 'Node.js', 'Express.js', 'Tailwind CSS', 'RESTful API', 'JSON Storage'],
+     icon: Shield
     }
   ];
 
