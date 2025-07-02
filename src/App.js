@@ -152,7 +152,7 @@ export default function Portfolio() {
        'Professional PowerGrid UI with responsive design'
      ],
      tech: ['React.js', 'Node.js', 'Express.js', 'Tailwind CSS', 'RESTful API', 'JSON Storage'],
-     icon: Shield
+     icon: Zap
     }
   ];
 
