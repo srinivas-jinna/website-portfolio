@@ -153,7 +153,22 @@ export default function Portfolio() {
      ],
      tech: ['React.js', 'Node.js', 'Express.js', 'Tailwind CSS', 'RESTful API', 'JSON Storage'],
      icon: Zap
-    }
+    },
+    {
+    title: 'Real-Time RFID Checkout System for Retail Automation',
+    description: 'Developed a revolutionary automated checkout solution using RFID technology that eliminates manual product scanning and reduces checkout time by 70%. Built with React.js frontend featuring real-time cart updates, hardware integration capabilities for professional RFID readers (Impinj, Zebra), and comprehensive admin dashboard. Implemented continuous tag detection algorithms, automatic cart synchronization, and seamless payment processing with transaction analytics. The system demonstrates next-generation retail technology inspired by modern implementations like Style Union, showcasing expertise in IoT integration, real-time systems, and innovative user experience design.',
+    features: [
+    'Real-time RFID product detection with automatic cart updates',
+    'Hardware integration with professional RFID readers and configurable settings',
+    'Continuous scanning with sub-100ms response time and 99.9% reliability',
+    'Automated payment processing with transaction history and analytics',
+    'Responsive admin dashboard with inventory management and system monitoring',
+    'Multi-protocol communication support (Serial/USB, TCP/IP) for various RFID manufacturers',
+    'Real-time activity logging and hardware diagnostics with error handling'
+    ],
+    tech: ['React.js', 'JavaScript ES6+', 'Tailwind CSS', 'RFID/UHF Technology', 'Serial Communication', 'Real-time APIs', 'IoT Integration'],
+    icon: Radio
+}
   ];
 
   const achievements = [
