@@ -167,7 +167,7 @@ export default function Portfolio() {
     'Real-time activity logging and hardware diagnostics with error handling'
     ],
     tech: ['React.js', 'JavaScript ES6+', 'Tailwind CSS', 'RFID/UHF Technology', 'Serial Communication', 'Real-time APIs', 'IoT Integration'],
-    icon: Brain
+    icon: BarChart
 }
   ];
 
