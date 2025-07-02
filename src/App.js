@@ -474,7 +474,7 @@ export default function Portfolio() {
                     <h3 className="text-2xl font-semibold text-gray-800">{project.title}</h3>
                   </div>
                   <a 
-                    href="https://github.com/srinivas-jinna"
+                    href="https://github.com/srinivas-jinna?tab=repositories"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center space-x-2 px-4 py-2 bg-gray-900 hover:bg-gray-800 text-white rounded-lg transition-all transform hover:scale-105 shadow-md"
