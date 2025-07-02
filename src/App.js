@@ -49,7 +49,7 @@ export default function Portfolio() {
 
   const skills = {
     languages: ['Python', 'C++', 'JavaScript', 'HTML', 'CSS', 'Java'],
-    frameworks: ['React.js', 'Node.js', 'Django', 'PyTorch', 'TensorFlow', 'OpenCV'],
+    frameworks: ['React.js', 'Node.js', 'Express.js', 'PyTorch', 'TensorFlow', 'OpenCV','Django'],
     databases: ['SQL', 'MongoDB'],
     cloud: ['REST APIs', 'Cloud Computing'],
     os: ['Linux/Unix', 'Windows']
